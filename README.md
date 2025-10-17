@@ -10,6 +10,7 @@ I wanted to practice building a responsive layout and get used to how Bootstrapâ
 - How to use the grid system to organize sections.
 - How to use Bootstrap utilities and components.
 - How to add icons with Font Awesome.
+- How can I use git and SSH kay
 
 ## Tools
 
